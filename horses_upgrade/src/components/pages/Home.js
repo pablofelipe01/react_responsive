@@ -1,6 +1,7 @@
 import React from 'react';
 import '../../App.css'
 import Cards from '../Cards';
+import Footer from '../Footer';
 import HorseSection from '../HorseSection'
 
 function Home () {
@@ -9,6 +10,7 @@ function Home () {
     <>
         <HorseSection />
         <Cards />
+        <Footer/>
 
 
     
